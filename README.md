@@ -1,9 +1,18 @@
-# Calculator Program
+Calculator Program (C)
 
-Detta program är skrivet i C och demonstrerar en enkel beräkning eller loopövning.
+This is a simple C program created to practice basic programming concepts such as loops, arithmetic operations, and conditional statements.  
+It is part of my learning exercises in the C programming language.
 
-## Kompilera och kör
-```bash
+---
+
+Files
+cal.c – main source file containing the core logic of the program.
+
+---
+
+Compile and Run
+To compile and run the program in a Linux terminal (Ubuntu, etc.):
+
+bash
 gcc cal.c -o cal
 ./cal
-```
